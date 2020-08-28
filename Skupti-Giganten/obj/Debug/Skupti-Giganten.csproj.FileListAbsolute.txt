@@ -1,0 +1,6 @@
+C:\Users\Martin D. Knudsen\source\repos\Skupti-Giganten\Skupti-Giganten\obj\Debug\Skupti-Giganten.csprojAssemblyReference.cache
+C:\Users\Martin D. Knudsen\source\repos\Skupti-Giganten\Skupti-Giganten\bin\Debug\Skupti-Giganten.exe.config
+C:\Users\Martin D. Knudsen\source\repos\Skupti-Giganten\Skupti-Giganten\bin\Debug\Skupti-Giganten.exe
+C:\Users\Martin D. Knudsen\source\repos\Skupti-Giganten\Skupti-Giganten\bin\Debug\Skupti-Giganten.pdb
+C:\Users\Martin D. Knudsen\source\repos\Skupti-Giganten\Skupti-Giganten\obj\Debug\Skupti-Giganten.exe
+C:\Users\Martin D. Knudsen\source\repos\Skupti-Giganten\Skupti-Giganten\obj\Debug\Skupti-Giganten.pdb
